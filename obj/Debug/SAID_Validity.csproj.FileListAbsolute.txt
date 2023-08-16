@@ -1,0 +1,8 @@
+C:\Users\mokgo\Desktop\Console\SAID_Validity\bin\Debug\SAID_Validity.exe.config
+C:\Users\mokgo\Desktop\Console\SAID_Validity\bin\Debug\SAID_Validity.exe
+C:\Users\mokgo\Desktop\Console\SAID_Validity\bin\Debug\SAID_Validity.pdb
+C:\Users\mokgo\Desktop\Console\SAID_Validity\obj\Debug\SAID_Validity.csproj.AssemblyReference.cache
+C:\Users\mokgo\Desktop\Console\SAID_Validity\obj\Debug\SAID_Validity.csproj.SuggestedBindingRedirects.cache
+C:\Users\mokgo\Desktop\Console\SAID_Validity\obj\Debug\SAID_Validity.csproj.CoreCompileInputs.cache
+C:\Users\mokgo\Desktop\Console\SAID_Validity\obj\Debug\SAID_Validity.exe
+C:\Users\mokgo\Desktop\Console\SAID_Validity\obj\Debug\SAID_Validity.pdb
